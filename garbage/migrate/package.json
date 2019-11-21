@@ -31,7 +31,7 @@
     "underscore": "1.4.x",
     "ejs": "^1.0.0",
     "static-favicon": "~1.0.0",
-    "morgan": "~1.0.0"
+    "morgan": "~1.9.1"
   },
   "devDependencies": {
     "supervisor": "~0.7.1"
