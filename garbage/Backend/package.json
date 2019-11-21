@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is server",
+  "main": "index.js",
+  "scripts": {
+    "start": "supervisor ./bin/www"
+  },
+  "dependencies": {
+  "express": "~4.0.0",
+  "static-favicon": "~1.0.0",
+  "morgan": "~1.0.0",
+  "cookie-parser": "~1.0.1",
+  "body-parser": "~1.0.0",
+  "debug": "~2.1.1",
+  "ejs": "^1.0.0",
+  "pg": "^4.2.0",
+
+},
+"devDependencies": {
+  "supervisor": "~0.7.1"
+},
+  "author": "Ray Liu",
+  "license": "ISC"
+}

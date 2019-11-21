@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/rayliu/Desktop/posgreHappyEveryDay------/JAVA/univocity-parsers-2.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rayliu/Desktop/posgreHappyEveryDay------ 7.34.46 PM/JAVA csv converter sql/univocity-parsers-2.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

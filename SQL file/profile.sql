@@ -1,0 +1,21 @@
+
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('1','Senior','1961-10-4','Male','Racing driver','Iphone');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('2','Youth','2000-4-16','Male','No Job','Android Phone');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('3','Adult','1975-7-8','Female','Chef','Personal Computer');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('4','Adult','1985-10-24','Male','Leaflet distributor','Android Phone');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('5','Adult','1976-4-6','Male','Garden designer','Iphone');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('6','Senior','1962-2-1','Male','Teacher','Iphone');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('7','Youth','1999-12-19','Male','Aromatherapist','Ipad');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('8','Youth','1998-9-21','Female','Shop assistant','MacBook');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('9','Senior','1969-5-26','Female','Chemist','Surface');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('10','Youth','2002-7-20','Male','Bus driver','Iphone');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('11','Senior','1962-2-16','Male','Barber','Ipad');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('12','Adult','1984-9-11','Male','Dietician','Surface');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('13','Adult','1974-11-13','Female','Composer','MacBook');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('14','Adult','1983-12-3','Male','Homemaker','Surface Book');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('15','Senior','1964-5-8','Female','Builder','iMac');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('16','Adult','1985-11-11','Male','Tour guide','MacBook');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('17','Adult','1985-10-29','Male','Clerical assistant','Android Phone');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('18','Adult','1979-4-17','Female','Architect','Personal Computer');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('19','Youth','1992-6-26','Male','Farmer','Ipad');
+INSERT INTO profile(user_id,age_range,year_born,gender,occupation,device_used) VALUES('20','Senior','1963-6-9','Female','Street entertainer','Surface');

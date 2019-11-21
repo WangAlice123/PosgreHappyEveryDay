@@ -1,0 +1,21 @@
+
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('1','Affleck','Ben','1972-8-15');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('2','Cavill','Henry','1983-5-5');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('3','Adams','Amy','1974-8-20');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('4','Goodwin','Ginnifer','1978-5-22');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('5','DiCaprio','Leonardo','1974-11-11');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('6','Gordon-Levitt','Joseph','1981-2-17');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('7','Damon','Matt','1970-10-8');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('8','Downey Jr','Robert','1965-4-4');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('9','Evans','Chris','1981-6-13');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('10','Johansson','Scarlett','1984-11-22');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('11','Lawrence','Jennifer','1990-8-15');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('12','Chen','Jackie','1954-4-7');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('13','Radcliffe','Daniel','1989-7-23');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('14','Waston','Emma','1990-4-15');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('15','Tatum','Channing','1980-4-26');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('16','Jackman','Hugh','1968-10-12');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('17','Woodley','Shailene','1991-11-15');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('18','Elgort','Ansel','1994-3-14');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('19','James','Theo','1984-12-16');
+INSERT INTO actor(actor_id,last_name,first_name,date_of_birth) VALUES('20','Reeves','Keanu','1964-9-2');

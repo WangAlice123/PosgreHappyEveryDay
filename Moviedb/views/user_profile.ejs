@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Hi <%=user%></title>
+
+  <!-- Bootstrap Core CSS -->
+  <link href="../css/bootstrap.min.css" rel="stylesheet">
+  <link href="../css/user_profile.css" rel="stylesheet">
+
+  <!-- Custom CSS -->
+  <link href="../css/thumbnail-gallery.css" rel="stylesheet">
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#"></a>
+      </div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li>
+            <a href="http://localhost:3000/movie">Welcome <%= user%></a>
+          </li>
+          <li>
+            <a href="http://localhost:3000/logout">Logout</a>
+          </li>
+          <li>
+            <a href="#"></a>
+          </li>
+        </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container -->
+  </nav>
+
+  <div class="container">
+
+
+    <div class="container auth">
+        <h1 class="text-center"><%=user%> <span>Modify Your Info!</span> </h1>
+        <div id="big-form" class="well auth-box" >
+          <form method="POST" action="update_user">
+            <fieldset>
+
+              <!-- Form Name -->
+              <legend>Basic data</legend>
+
+              <!-- Text input-->
+                <label class=" control-label" for="first_name">First name</label>
+                <div class="">
+                  <input id="first_name" name="first_name" value="" placeholder="" class="form-control input-md" type="text">
+                </div>
+                <label class=" control-label" for="last_name">Last name</label>
+                <div class="">
+                  <input id="last_name" name="last_name" value="" placeholder="" class="form-control input-md" type="text">
+                </div>
+                <label class=" control-label" for="email">Email</label>
+                <div class="">
+                  <input id="email" name="email" value="" placeholder="" class="form-control input-md" type="text">
+                </div>
+              <!-- Password input-->
+                <label class=" control-label" for="password">Password</label>
+                <div class="">
+                  <input id="password" name="password" value="" placeholder="" class="form-control input-md" type="text">
+                  <span class="help-block">help</span>
+                </div>
+
+              <!-- Select Basic -->
+                <label class=" control-label" for="city">City</label>
+                <div class="">
+                  <input id="city" name="city" value="" placeholder="" class="form-control input-md" type="text">
+                </div>
+                <label class=" control-label" for="province">Province</label>
+                <div class="">
+                  <input id="province" name="province" value="" placeholder="" class="form-control input-md" type="text">
+                </div>
+                <label class=" control-label" for="Country">Country</label>
+                <div class="">
+                  <input id="country" name="Country" value="" placeholder="" class="form-control input-md" type="text">
+                </div>
+
+         <label class=" control-label" for="age_range">Age range</label>
+         <div class="">
+           <select id="age_range" name="age_range" class="form-control">
+             <option value="Youth">Youth</option>
+             <option value="Adult">Adult</option>
+             <option value="Senior">Senior</option>
+           </select>
+         </div>
+  <label class=" control-label" for="selectbasic">Gender</label>
+  <div class="">
+    <select id="gender" name="gender" class="form-control">
+      <option value="Male">Male</option>
+      <option value="Female">Female</option>
+      <option value="Unknown">Unknown</option>
+    </select>
+  </div>
+
+
+<!-- Select Basic -->
+<label class=" control-label" for="year_born">Year Born</label>
+<div class="">
+  <input id="year_born" name="year_born" value="" placeholder="" class="form-control input-md" type="text">
+</div>
+  <label class=" control-label" for="Occupation">Occupation</label>
+  <div class="">
+    <input id="occupation" name="occupation" value="" placeholder="" class="form-control input-md" type="text">
+  </div>
+  <label class=" control-label" for="Device">Device</label>
+  <div class="">
+    <input id="device_used" name="Device" value="" placeholder="" class="form-control input-md" type="text">
+  </div>
+
+
+
+
+
+              <!-- Button (Double) -->
+                  <button id="update" name="update" class="btn btn-success" >Update</button>
+</fieldset>
+
+</form>
+  </div>
+
+
+  <!-- Footer -->
+  <footer>
+    <div class="row">
+      <div class="col-lg-12">
+        <p>Copyright &copy; PolarBearTech 2016</p>
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- jQuery -->
+  <script src="../js/jquery.js"></script>
+  <script src="../javascript/user_profile_helper.js"></script>
+  <!-- Bootstrap Core JavaScript -->
+  <script src="../js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

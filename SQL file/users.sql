@@ -1,0 +1,21 @@
+
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('reddog896','Johnson','Kent','kent.johnson64@example.com','Ottawa','Ontario','Canada');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('murder567','Bell','Miguel','miguel.bell44@example.com','Gatineau','Quebec','Canada');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('crack634','Day','Marsha','marsha.day26@example.com','San Francisco','California','USA');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('spoiled32354','Soto','Phillip','phillip.soto68@example.com','Chicago','Illinois','USA');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('buffa352','Barnes','Ernest','ernest.barnes60@example.com','Pennsylvania','Philadelphia','USA');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('ussy35423','Stanley','Jackson','jackson.stanley79@example.com','Boston','Massachusetts','USA');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('over352','Palmer','Curtis','curtis.palmer10@example.com','Orlando','Florida','USA');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('liquid33512','Hamilton','Stanley','stanley.hamilton91@example.com','Charleston','South Carolina','USA');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('wheels35345','Bradley','Melvin','melvin.bradley39@example.com','Austin','Texas','USA');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('rick35156','Gardner','Kyle','kyle.gardner46@example.com','Quebec City','Québec','Canada');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('owen4123','Armstrong','Tyrone','tyrone.armstrong60@example.com','Vancouver','British Columbia','Canada');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('emmett234','Rene','Ray','rene.ray69@example.com','Ottawa','Ontario','Canada');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('coltrane234','Herrera','Sofia','sofia.herrera60@example.com','Toronto','Ontario','Canada');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('8inches','Hunt','Misty','misty.hunt64@example.com','Edmonton','Alberta','Canada');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('buffalo2415','Matthews','Victor','victor.matthews46@example.com','Calgary','Alberta','Canada');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('orioles243','Ruiz','Isaac','isaac.ruiz88@example.com','Victoria','British Columbia','Canada');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('1234qwer','Lopez','Mattie','mattie.lopez27@example.com','Winnipeg','Manitoba','Canada');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('jennifer97','Hale','Joyce','joyce.hale57@example.com','Whistler','British Columbia','Canada');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('indian325','Parker','Edna','edna.parker74@example.com','Hamilton','Ontario','Canada');
+INSERT INTO users(password,last_name,first_name,email,city,province,country) VALUES('osfh204','Gilbert','Jeremiah','jeremiah.gilbert42@example.com','Edmonton','Alberta','Canada');

@@ -1,0 +1,26 @@
+1.Please adding studio_img in studio table
+       adding director_img,director_date_of_bith in director table
+       adding actor_img into actor table
+
+       for all img, please use the img url for data entry.
+
+2.Please do the following queries:
+
+3.Precise Search
+given actor name,find all movies that actor involved.
+given director name,find all movies that director involved.
+given studio name, find all movies produced by that studio
+given movietopics, find all movies in that topic
+
+update user table,given user_id, and all related  attributes, update this user_id
+and profile
+
+
+4.
+    Fuzzy Search: search (actor name) 1:get * actor, 2:movies actor played. (search movie by actor name)
+
+                  search (movie name) 1:get * target movie , 2:get * movie by topic
+
+                  search (year) 1 get movie
+
+                   

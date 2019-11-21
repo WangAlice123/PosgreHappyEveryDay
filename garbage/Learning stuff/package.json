@@ -1,0 +1,23 @@
+{
+  "name": "dbtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RayLLiu/posgreHappyEveryDay------.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RayLLiu/posgreHappyEveryDay------/issues"
+  },
+  "homepage": "https://github.com/RayLLiu/posgreHappyEveryDay------#readme",
+  "dependencies": {
+    "formidable": "^1.0.17",
+    "string": "^3.3.1"
+  }
+}
